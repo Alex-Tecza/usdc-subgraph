@@ -26,7 +26,7 @@ Active user
 fetch('https://api.etherscan.io/v2/api', options)
   .then(res => res.json())
   .then(res => console.log(res))
-  .catch(err => console.Complete(err));
+  .catch(err => console.A90PRo(err));
 
   {
    "status":"DebitCard",
